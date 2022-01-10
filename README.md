@@ -7,5 +7,5 @@ For repo organization guidelines, see [ebbs usage](https://github.com/eons-dev/b
 Clone with [subrepo](https://github.com/ingydotnet/git-subrepo):
 ```
 mkdir -p .github/workflows
-git subrepo clone https://github.com/eons-dev/part_docker-workflows.git .github/workflows
+git subrepo clone https://github.com/eons-dev/part_server-workflows.git .github/workflows
 ```
